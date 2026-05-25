@@ -23,3 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 src/data/db.json
+
+# Playwright
+src/playwright/html-report/
+src/playwright/test-results/
+src/playwright-report/
+src/blob-report/
+src/playwright/.cache/
+src/playwright/.auth/
